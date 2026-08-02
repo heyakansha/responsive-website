@@ -64,10 +64,9 @@ height: 90px;
     font-size: 25px;
     padding-top:30px;
 
-
 }
 .banner img{
- background-size: cover;
- width: fit-content;
+border-image-repeat: round;
+ image-resolution: unset;
 
 }
