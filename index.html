@@ -17,8 +17,8 @@
     <a href="#">PROJECT</a>
     <a href="#">EXPERIENCE</a>
     <a href="#">CONTACT</a>
-   <div> <input type="checkbox" id="check" >
-    <label for="check" class="theme"></label></div>
+ <button class="togglebutton"><i class="fa-jelly fa-regular fa-moon"></i></button>
+
 </div>
 <div class="intro">
 <h1>hello, I'm <br>  <span>Akansha</span> <br>
@@ -40,5 +40,8 @@
 
 
 </div>
+<script> let btn= document.getElementById('togglebutton')
+btn.onclick=()=>{document.body.classList.toggle('whitemode')};
+</script>
 </body>
 </html>
