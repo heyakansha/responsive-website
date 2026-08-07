@@ -3,7 +3,7 @@
     padding: 0;
 }
 .main{
- background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/ChatGPT\ Image\ Aug\ 5\,\ 2026\,\ 06_28_02\ AM.png);
+ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/ChatGPT\ Image\ Aug\ 7\,\ 2026\,\ 08_22_06\ AM.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -103,4 +103,29 @@ color: rgb(231, 225, 225);
 .icons a:hover{
     color: rgb(100, 79, 97);
     transition: 0.5 ease;
+}
+.theme{
+    width: 10px;
+    height: 5px;
+    background-color: rgb(202, 202, 214);
+    border-radius: 50px;
+    cursor: pointer;
+}
+.label{
+    color: antiquewhite;
+}
+.theme::before{
+    position: absolute;
+    content: ;
+ background-color: aquamarine;
+ width: 10px;
+ height: 5px;
+ border-radius: 20px;
+}
+input:checked+.theme{
+    background-color: aquamarine;
+}
+input:checked+.theme::before{
+transform: translateX(20px);
+
 }
