@@ -2,14 +2,13 @@
     margin: 0;
     padding: 0;
 }
-
 .main{
  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/ChatGPT\ Image\ Aug\ 7\,\ 2026\,\ 08_22_06\ AM.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   height:100vh;
-
+color: black;
 }
 .navbar{
     display: flex;
@@ -112,4 +111,48 @@ border: none;
 color: rgb(207, 213, 219);
 font-size: larger;
 cursor: pointer;
+}
+.secondhalf h2{
+    color: rgb(187, 199, 199);
+font-family: cursive;font-family: monospace;
+margin-top: 70px;
+margin-left: 1201px;
+}
+.secondhalf span{
+font-size: larger;
+color: rgb(154, 155, 156);
+}
+.infobox i{
+color: rgb(182, 189, 189);
+ font-size: xx-large;
+ float: left;
+  margin-top: 25px;
+  padding-left: 50px;
+}
+.infobox p br{
+    color: rgb(168, 172, 175);
+    line-height: 1.0;
+}
+
+.infobox p{
+    color: rgb(182, 185, 185);
+    line-height: 1.3;
+        padding-left: 130px;
+        padding-top: 0px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin-top: 25px;
+        
+ 
+}
+.infobox{
+    width: 300px;
+    height: 300px;
+    background-color: transparent;
+border-radius: 20px;
+border-style: groove;
+border-color: rgb(71, 77, 77);
+padding-top: 10px;
+margin-left: 550px;
+margin-top: 20px;
+
 }
