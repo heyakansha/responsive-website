@@ -87,5 +87,20 @@ color: rgb(231, 225, 225);
 }
 .box button:hover{
      background-color: rgb(100, 79, 97);
-        transition: 0.5 ease;
+    transition: 0.5 ease;
+}
+.icons a{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+}
+.icons{
+    display: flex;
+    gap:30px;
+    padding-left: 490px;
+    padding-top: 40px;
+}
+.icons a:hover{
+    color: rgb(100, 79, 97);
+    transition: 0.5 ease;
 }
