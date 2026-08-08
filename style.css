@@ -156,3 +156,39 @@ margin-left: 550px;
 margin-top: 20px;
 
 }
+.secondintro h2{
+color: aliceblue;
+font-weight: lighter;
+font-size: 40px;
+}
+.secondintro p{
+    color:rgb(171, 175, 179) ;
+    font-size: 20px;
+}
+.secondintro{
+    line-height: 1.4;
+    margin-top: -290px;
+    margin-left: 910px;
+
+}
+.cv a{
+    text-decoration: none;
+    font-weight:bold ;
+    font-size: medium;
+    color: aliceblue;
+   
+}
+.cv{
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    margin-top: 20px;
+}
+.cv i{
+    color: aliceblue;
+}
+.cv:hover{
+     background-color: rgb(100, 79, 97);
+    transition: 0.5 ease;
+
+}
