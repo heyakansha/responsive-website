@@ -340,9 +340,9 @@ background-repeat: no-repeat;
     font-size: 20px;
     font-family: cursive;
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(230, 217, 217);
-    margin-top: 310px;
-    
+    color: rgb(214, 208, 208);
+    margin-top: 300px;
+   margin-left: 600px;
 }
 .secondmain span{
     font-weight: lighter;
