@@ -208,3 +208,123 @@ margin-top: -275px;
 margin-left: 1390px;
 
 }
+.web{
+    width: 270px;
+    height: 110px;
+    background-color:transparent;
+ margin-left: 730px;
+margin-top: -160px;
+border-radius: 20px;
+float: left;
+border-color: rgb(71, 77, 77);
+border-style: groove;
+}
+.web p{
+    color: rgb(172, 171, 170);
+   float: right;
+   padding-right: 20px;
+   padding-top: 23px;
+   line-height: 1.2;
+
+}
+.web i{
+    color: #d4d2d2;
+    font-size: xx-large;
+    padding-left: 28px;
+  padding-top: 30px;
+    
+}
+.web span{
+color: #fffefe;
+font-size: large;
+}
+.uiux p{
+  color: rgb(172, 171, 170);
+   float: right;
+   padding-top: 24px;
+   padding-right: 10px;
+   line-height: 1.2;
+}
+.uiux i{
+ color: #d4d2d2;
+    font-size: xx-large;
+padding-left: 17px;
+  padding-top: 30px;
+
+}
+.uiux span{
+color: #fffefe;
+font-size: large;
+}
+.uiux{
+width: 280px;
+    height: 110px;
+    background-color:transparent;
+ margin-left:1025px ;
+margin-top:-160px ;
+border-radius: 20px;
+float: left;
+border-color: rgb(71, 77, 77);
+border-style: groove;
+}
+.frontend{
+    width: 270px;
+    height: 110px;
+    background-color:transparent;
+ margin-left:730px ;
+margin-top:-20px;
+border-radius: 20px;
+float: left;
+border-color: rgb(71, 77, 77);
+border-style: groove;
+display: flex;
+}
+.frontend p{
+ color: rgb(172, 171, 170);
+   line-height: 1.2;
+    color: rgb(172, 171, 170);
+   padding-left: 30px;
+   padding-top: 10px;
+}
+.frontend i{
+color: #d4d2d2;
+    font-size: xx-large;
+    padding-left:28px ;
+    padding-top: 30px;
+    
+}
+.frontend span{
+    color: #fffefe;
+font-size: large;
+}
+.creative{
+ width: 270px;
+    height: 110px;
+    background-color:transparent;
+ margin-left:1670px ;
+margin-top:-115px;
+border-radius: 20px;
+float: left;
+border-color: rgb(71, 77, 77);
+border-style: groove;
+display: flex;
+}
+.creative P{
+ color: rgb(172, 171, 170);
+   line-height: 1.2;
+    color: rgb(172, 171, 170);
+   padding-left: 15PX;
+    padding-top: 20px;
+}
+
+.creative h4{
+color: #fffefe;
+    font-size: 49px;
+    padding-top: 14px;
+padding-left: 20px;
+    
+}
+.creative span{
+ color: #ffecec;
+font-size: large;
+}
