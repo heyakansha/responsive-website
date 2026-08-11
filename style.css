@@ -193,3 +193,10 @@ font-size: 40px;
     transition: 0.5 ease;
 
 }
+.line{
+    background-color: rgb(148, 148, 148);
+    margin-top: -225px;
+    width: 2px;
+    height: 250px;
+    margin-left: 1330px;
+}
