@@ -379,9 +379,33 @@ color: #e4e2e2;
         color: rgb(131, 120, 129);
 }
 .firstbox img{
- width: 400px%;
-height:500px;
-color: #e4e2e2;
-border-color: rgb(241, 81, 81);
-background-color: aliceblue;
+ width: 700px;
+height:400px;
+ border-radius: 50px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ align-content: center;
+ padding-left: 25px;
+ image-rendering:optimizeQuality;
+ size-adjust: inherit;
+}
+.firstbox{
+    display: flex;
+    flex-direction: column;
+    border: #fffefe;
+border-color: rgb(177, 187, 187);
+    border-style: groove;
+    border-radius: 50px;
+    width: 750px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.firstbox a{
+text-decoration: none;
+color: #cecaca;
+display: flex;
+padding-left: 125px;
+font-weight: 400;
+font-size: xx-large;
 }
