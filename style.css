@@ -378,3 +378,10 @@ color: #e4e2e2;
     margin-top: 20px;
         color: rgb(131, 120, 129);
 }
+.firstbox img{
+ width: 400px%;
+height:500px;
+color: #e4e2e2;
+border-color: rgb(241, 81, 81);
+background-color: aliceblue;
+}
