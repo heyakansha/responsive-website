@@ -409,3 +409,8 @@ padding-left: 125px;
 font-weight: 400;
 font-size: xx-large;
 }
+.firstbox a:hover{
+
+    color: rgb(100, 79, 97);
+    transition: 0.5 ease;
+}
