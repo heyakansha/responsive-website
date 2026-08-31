@@ -414,3 +414,40 @@ font-size: xx-large;
     color: rgb(100, 79, 97);
     transition: 0.5 ease;
 }
+.secondbox img{
+ width: 700px;
+height:400px;
+ border-radius: 50px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ align-content: center;
+ padding-left: 25px;
+ image-rendering:optimizeQuality;
+ size-adjust: inherit;
+
+}
+.secondbox{
+display: flex;
+flex-direction: column;
+    border: #fffefe;
+border-color: rgb(177, 187, 187);
+    border-style: groove;
+    border-radius: 50px;
+    width: 750px;
+margin-left: 900px;
+margin-top: -440px;
+}
+.secondbox a{
+    text-decoration: none;
+color: #cecaca;
+display: flex;
+padding-left: 225px;
+font-weight: 400;
+font-size: xx-large;
+}
+.secondbox a:hover{
+
+    color: rgb(100, 79, 97);
+    transition: 0.5 ease;
+}
