@@ -490,27 +490,58 @@ height:400px;
 
 }
 .footer-container{
-background-color: rgb(29, 25, 29);
+background-color: rgb(43, 43, 43);
 margin-top: 90px;
 }
 .footer{
 width: 60%;
-height: 55vh;
+height: 35vh;
 color: #131111;
 display: flex;
 justify-content: center;
 flex-wrap: wrap;
 margin: 0%;
-
+gap: 20px;
+flex-direction: row;
 }
 .footer a{
 text-decoration: none;
 display: flex;
 justify-content: center;
 align-items: center;
+color: #dad8d8;
+line-height: 1.50;
+padding-top: 20px;
+font-size: larger
+}
+.footer a:hover{
+ color: rgb(214, 187, 207);
+    transition: 0.5 ease;
+
 
 }
 .footer h2{
     display: flex;
     flex-direction: column;
+    margin-top: 70px;
+    font-size: x-large;
+        margin-left: 18px;
+
+}
+.message{
+padding-top: 80px;
+margin-left:190px;
+display: flex;
+gap: 30px;
+justify-content: end;
+align-content: end;
+}
+.message label{
+    font-size: x-large;
+   font-weight: 200;
+}
+.message input{
+    border-radius: 30px;
+font-size: xx-large;
+border-style: groove;
 }
