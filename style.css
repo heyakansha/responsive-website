@@ -502,3 +502,12 @@ height:400px;
     display: block;
     object-fit: cover;
 }
+.upper-line{
+width: 2305px;
+height: 0.5px;
+background-color: #868484;
+color: #6d6969;
+margin-top: -650px;
+position: absolute;
+margin-left: 30px;
+}
