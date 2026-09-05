@@ -503,7 +503,7 @@ height:400px;
     object-fit: cover;
 }
 .upper-line{
-width: 2305px;
+ width: 2305px;
 height: 0.5px;
 background-color: #868484;
 color: #6d6969;
@@ -620,4 +620,25 @@ color: #e4e2e2;
 .connect input:hover{
   background-color: rgb(100, 79, 97);
     transition: 0.5 ease;
+}
+.lower-line{
+     width: 1760px;
+height: 0.5px;
+background-color: #868484;
+color: #6d6969;
+position: relative;
+margin-top: 220px;
+}
+.rights{
+color: #cecaca;
+font-size: larger;
+margin-left: 40px;
+margin-top: 20px;
+}
+.last{
+color: #d4d2d2;
+font-size: x-large;
+margin-top: 10px;
+margin-left: 40px;
+font-style: italic;
 }
