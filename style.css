@@ -536,15 +536,88 @@ padding-top: 19px;
 .navigation{
     display: flex;
     flex-direction: column;
-    margin-top: -660px;
+    margin-top: -680px;
+   
 }
 .navigation a{
-    color:white;
+ color: #868484;
     text-decoration: none;
-    text-align: center;
-
+   margin-left: 635px;
+font-size: x-large;
+line-height: 0.80;
+padding-top: 40px;
+font-weight: lighter;
 }
 .navigation h2{
+ color: #ffefef;
 
+}
+.navigation a:hover{
+    color: rgb(100, 79, 97);
+    transition: 0.5 ease;}
+.footprojects{
+display: flex;
+   flex-direction: column;
+   margin-left: 350px;
+ margin-top: -620px;
+}
+.footprojects a{
+ color: #868484;
+     text-decoration: none;
+    margin-left: -900px;
+text-align: center;
+font-size: x-large;
+line-height: 0.80;
+font-weight: lighter;
+padding-top: 40px;
+}
+.footprojects a:hover{
+     color: rgb(100, 79, 97);
+    transition: 0.5 ease;
+}
+.resources{
+display: flex;
+     flex-direction: column;
+      margin-left: 660px;
+      margin-top: -620px;
 
+}
+.resources a{
+ color: #868484;
+     text-decoration: none;
+    margin-left: 620px;
+font-size: x-large;
+line-height: 0.80;
+padding-top: 40px;
+font-weight: lighter;
+}
+.resources a:hover{
+    color: rgb(100, 79, 97);
+    transition: 0.5 ease;
+}
+.connect{
+display: flex;
+flex-direction: column;
+margin-left: 980px;
+margin-top: -560px;
+}
+.connect p{
+    margin-left: 580px;
+    margin-top: 20px;
+color: #8a8686;
+font-size: 20px;
+line-height: 1.5;
+}
+.connect input{
+width: 250px;
+height: 60px;
+border-radius: 20px;
+margin-left: 560px;
+margin-top: 30px;
+background-color: transparent;
+color: #e4e2e2;
+}
+.connect input:hover{
+  background-color: rgb(100, 79, 97);
+    transition: 0.5 ease;
 }
